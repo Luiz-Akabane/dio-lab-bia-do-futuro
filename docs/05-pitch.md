@@ -56,4 +56,4 @@ Ao democratizar o acesso à educação financeira, a solução contribui para de
 
 ## Link do Vídeo
 
-[Adicionar link do vídeo aqui]
+[https://youtu.be/DjDxjKy949E]
