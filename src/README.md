@@ -30,4 +30,4 @@ streamlit run .\src\app.py
 
 ## Evidência de Execução
 
-<img width="1920" height="1107" alt="image" src="./assets/Evidencia.png" />
+<img width="1920" height="1107" alt="image" src="assets/Evidencia.png" />
